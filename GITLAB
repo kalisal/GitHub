@@ -5,3 +5,4 @@ num=int(input("Enter your favorite number"))
 print(num)
 Hey you
 print("How much")
+print("HI")
