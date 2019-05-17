@@ -1,4 +1,3 @@
-print("Hope this works")
 num=int(input("Enter your favorite number"))
 print(num)
 print("Hope works!")
