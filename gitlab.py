@@ -5,5 +5,3 @@ while (num != -1):
     sum= sum + num
     num = int(input("Enter a number, -1 to stop"))
 print ("Done.")
-print(sum)
-print("DONE")
