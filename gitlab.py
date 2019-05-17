@@ -9,5 +9,4 @@ print(sum)
 name = input("Enter a name, STOP to end")
 while (name != "STOP"):
     print ("You entered: " + name)
-    name = input("Enter a name, STOP to end")
-print ("Done.")
+
