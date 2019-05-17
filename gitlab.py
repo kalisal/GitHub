@@ -6,7 +6,4 @@ while (num != -1):
     num = int(input("Enter a number, -1 to stop"))
 print ("Done.")
 print(sum)
-name = input("Enter a name, STOP to end")
-while (name != "STOP"):
-    print ("You entered: " + name)
-
+print("DONE")
