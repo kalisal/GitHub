@@ -1,4 +1,5 @@
 num = int(input("Enter a number, -1 to stop"))
+print("Hello")
 sum=0
 while (num != -1):
     print ("You entered: " + str(num))
